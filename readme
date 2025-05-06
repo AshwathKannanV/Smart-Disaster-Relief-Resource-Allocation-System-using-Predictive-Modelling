@@ -22,7 +22,7 @@ An AI-powered solution that predicts disaster severity and optimally allocates r
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/AshwathKannanV/Smart-Disaster-Relief-Resource-Allocation-System-using-Predictive-Modelling-.git
+$ git clone https://github.com/AshwathKannanV/Smart-Disaster-Relief-Resource-Allocation-System-using-Predictive-Modelling.git
 ```
 
 Create a virtual environment to install dependencies in and activate it:
