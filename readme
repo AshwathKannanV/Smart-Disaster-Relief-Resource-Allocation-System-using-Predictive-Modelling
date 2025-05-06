@@ -1,0 +1,22 @@
+# Smart Disaster Relief Resource Allocation System 🚑
+
+An AI-powered solution that predicts disaster severity and optimally allocates relief resources using machine learning and linear programming, with a live dashboard for visualization.
+
+## 🧠 Features
+- Cleaned and structured historical disaster dataset
+- Predictive modeling for disaster severity
+- Resource allocation using linear programming (PuLP)
+- Proportional vs optimized allocation strategy comparison
+- Interactive Streamlit dashboard
+
+## 📁 Folder Structure
+- `Preprocessing/`: Clean & load raw disaster data
+- `Features/`: Generate engineered features
+- `EDA/`: Visual data analysis
+- `Models/`: ML model for severity prediction
+- `Optimization/`: Resource allocation logic
+- `Dashboard/`: Streamlit app
+
+## ▶️ Run the App
+```bash
+streamlit run Dashboard/dashboard_app.py

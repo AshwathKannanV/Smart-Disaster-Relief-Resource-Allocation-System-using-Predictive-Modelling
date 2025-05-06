@@ -1,0 +1,17 @@
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+openpyxl
+xlrd
+joblib
+pulp
+streamlit
+plotly
+pillow
+altair
+pydeck
+watchdog
