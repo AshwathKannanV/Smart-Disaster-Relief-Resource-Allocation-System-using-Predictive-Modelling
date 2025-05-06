@@ -17,6 +17,33 @@ An AI-powered solution that predicts disaster severity and optimally allocates r
 - `Optimization/`: Resource allocation logic
 - `Dashboard/`: Streamlit app
 
+## Setup
+
+The first thing to do is to clone the repository:
+
+```sh
+$ git clone https://github.com/AshwathKannanV/Smart-Disaster-Relief-Resource-Allocation-System-using-Predictive-Modelling-.git
+```
+
+Create a virtual environment to install dependencies in and activate it:
+
+```sh
+$ python -m venv venv 
+$ source env/bin/activate
+```
+
+Then install the dependencies:
+
+```sh
+(env)$ pip install -r requirements.txt
+```
+Note the `(env)` in front of the prompt. This indicates that this terminal
+session operates in a virtual environment set up by `virtualenv2`.
+
+Once `pip` has finished downloading the dependencies:
+
 ## ▶️ Run the App
 ```bash
+
 streamlit run Dashboard/dashboard_app.py
+'''
